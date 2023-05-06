@@ -4,7 +4,7 @@ Acá está el informe completo => https://jstalynb.github.io/MERCADO-DIGITAL-ANT
 
 ## Introducción
  
-Este informe presenta los resultados del proyecto del Mercado Digital Anticorrupción, cuyo objetivo es desarrollar herramientas que permitan generar representaciones gráficas utilizando los datos ya existentes en los sistemas 1, 2 y 3 de la Plataforma Digital Nacional (PDN) de México. Se favorece el uso de herramientas de libre acceso para poner a disposición estas representaciones en el Mercado Digital Anticorrupción, así como el uso de datos provenientes de más de un sistema.
+Este informe presenta los resultados del proyecto del Mercado Digital Anticorrupción, cuyo objetivo es desarrollar herramientas que permitan generar representaciones gráficas utilizando los datos ya existentes en los sistemas 1, 2 y 3 de la Plataforma Digital Nacional (PDN) de México potenciado con dinámicamente con Power BI. Se favorece el uso de herramientas de libre acceso para poner a disposición estas representaciones en el Mercado Digital Anticorrupción, así como el uso de datos provenientes de más de un sistema.
 En la presente pondemos encontrar datos interesantes como que en México, el mayor número de deudores trabajan como asistentes 
 
 ![imagen](https://user-images.githubusercontent.com/105129458/217661315-e923c812-8fff-4a53-9cfd-f297650ac95f.png)
