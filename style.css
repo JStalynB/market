@@ -1,0 +1,17 @@
+/* Estilos para el encabezado de la página */
+h1 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Estilos para el iframe del dashboard */
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+}
